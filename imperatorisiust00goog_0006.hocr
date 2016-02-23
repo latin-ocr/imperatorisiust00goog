@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./imperatorisiust00goog_0006.png"; bbox 0 0 2932 5034; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 418 293 947 443">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 418 293 947 443">
+     <span class='ocr_line' id='line_1_1' title="bbox 418 293 947 443; baseline -0.017 -23"><span class='ocrx_word' id='word_1_1' title='bbox 418 293 622 420; x_wconf 57' lang='lat' dir='ltr'><strong>&amp;lartum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 664 327 777 443; x_wconf 51' lang='lat' dir='ltr'><strong>&amp;rm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 820 322 947 416; x_wconf 65' lang='lat' dir='ltr'><strong>§nin</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 112 2132 1260 2457">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 112 2132 1260 2457">
+     <span class='ocr_line' id='line_1_2' title="bbox 260 2132 1110 2217; baseline 0.004 -4"><span class='ocrx_word' id='word_1_4' title='bbox 260 2132 695 2217; x_wconf 88' lang='lat' dir='ltr'>IMPERATORIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 747 2132 1110 2217; x_wconf 86' lang='lat' dir='ltr'><strong>IUSTINIANI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 112 2345 1260 2457; baseline -0.001 -26"><span class='ocrx_word' id='word_1_6' title='bbox 112 2345 636 2433; x_wconf 86' lang='lat' dir='ltr'>INSTITUTIONUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 687 2348 858 2432; x_wconf 89' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_8' title='bbox 909 2349 1260 2457; x_wconf 78' lang='lat' dir='ltr'><strong>QUATTUOR</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 523 2717 846 2800">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 523 2717 846 2800">
+     <span class='ocr_line' id='line_1_4' title="bbox 523 2717 846 2800; baseline 0 -19"><span class='ocrx_word' id='word_1_9' title='bbox 523 2721 557 2800; x_wconf 87' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 585 2717 846 2783; x_wconf 65' lang='lat' dir='ltr'><strong>mom</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1470 5034">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1470 5034">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1470 5034; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1470 5034; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
